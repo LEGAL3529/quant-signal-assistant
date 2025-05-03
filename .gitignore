@@ -1,9 +1,17 @@
-venv/
+# Python cache
 __pycache__/
 *.pyc
-*.log
-*.csv
-*.pkl
-*.png
-*.json
+
+# Env
+venv/
 .env
+
+# Data
+*.csv
+*.log
+*.pkl
+*.json
+logs/
+datasets/
+datasets_5m/
+models/
