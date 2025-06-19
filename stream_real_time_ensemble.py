@@ -10,10 +10,10 @@ from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from signal_logger import log_signal
 
 # 🔧 Настройки
-API_KEY = 'QCI76yYs5jbuYqS4geSkEZHhkPJq0QZCOz1pXGIEdIOvfN36RLrkbaaa41OI983T'
-API_SECRET = 'EpMK5GTSHJxMFf42IhzGCpVLgxywR60Lz9lWDu7votvjLVgwinY6c5wydupOnVRV'
-TELEGRAM_TOKEN = '7947328586:AAGhTyJ8bSMU0BrfcXrIPx9SFocZJk9u5WQ'
-TELEGRAM_CHAT_ID = '5879164044'
+API_KEY = 'QCI76yYs5jbuYqS4geSkEiiiiiiiiiiiiiiii'
+API_SECRET = 'EpMK5GTSHJxMFf42IhzGCiiiiiiiiiiiii'
+TELEGRAM_TOKEN = '7947328586:AAGiiiiiiiiiiiiiiiii'
+TELEGRAM_CHAT_ID = '587iiiiiiii4'
 
 client = Client(API_KEY, API_SECRET)
 tg_bot = Bot(token=TELEGRAM_TOKEN)
