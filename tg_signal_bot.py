@@ -18,7 +18,7 @@ from handlers.autostop_handler import check_autostop
 
 import subprocess
 
-API_TOKEN = '7947328586:AAGhTyJ8bSMU0BrfcXrIPx9SFocZJk9u5WQ'
+API_TOKEN = '7947328586:AAGhiiiiiiiiiiiiiiii'
 
 bot = Bot(token=API_TOKEN, default=DefaultBotProperties(parse_mode=ParseMode.HTML))
 dp = Dispatcher()
