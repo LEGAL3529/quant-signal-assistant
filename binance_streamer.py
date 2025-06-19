@@ -8,10 +8,10 @@ from strategies.ema_rsi_supertrend import apply_strategy
 
 load_dotenv()
 
-API_KEY = os.getenv("QCI76yYs5jbuYqS4geSkEZHhkPJq0QZCOz1pXGIEdIOvfN36RLrkbaaa41OI983T")
-API_SECRET = os.getenv("EpMK5GTSHJxMFf42IhzGCpVLgxywR60Lz9lWDu7votvjLVgwinY6c5wydup0nVRV")
-TELEGRAM_TOKEN = os.getenv("7947328586:AAGhTyJ8bSMU0BrfcXrIPx9SFocZJk9u5WQ")
-TELEGRAM_CHAT_ID = os.getenv("5879164044")
+API_KEY = os.getenv("QCI76yYs5jbuYqS4geSkEZHhkPJq0QZCOz1pXGIEdIOvfN36Rtyyyyyyyyyyyyyy")
+API_SECRET = os.getenv("EpMK5GTSHJxMFf42IhzGCpVLgxywR60Lz9lWDu7votvjLVgwinY6c5pppppppppp")
+TELEGRAM_TOKEN = os.getenv("7947328586:AAGhTyJ8bSMU0BrfcXrIPx9SFocZkkkkkkk")
+TELEGRAM_CHAT_ID = os.getenv("587kkkkkkk")
 
 client = Client(API_KEY, API_SECRET)
 
