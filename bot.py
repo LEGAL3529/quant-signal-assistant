@@ -9,7 +9,7 @@ from aiogram.fsm.storage.memory import MemoryStorage
 from handlers.equity import equity_handler
 
 # Вставь сюда свой токен
-BOT_TOKEN = os.getenv("7947328586:AAGhTyJ8bSMU0BrfcXrIPx9SFocZJk9u5WQ") or "YOUR_TELEGRAM_BOT_TOKEN"
+BOT_TOKEN = os.getenv("7947328586:AAGhTyJ8bSMU0BrfcXrIPx9SFjjjjjjjjjj") or "YOUR_TELEGRAM_BOT_TOKEN"
 
 # Настройка логов
 logging.basicConfig(level=logging.INFO)
