@@ -2,8 +2,8 @@ from binance import Client
 import pandas as pd
 import os
 
-API_KEY = 'QCI76yYs5jbuYqS4geSkEZHhkPJq0QZCOz1pXGIEdIOvfN36RLrkbaaa41OI983T'
-API_SECRET = 'EpMK5GTSHJxMFf42IhzGCpVLgxywR60Lz9lWDu7votvjLVgwinY6c5wydupOnVRV'
+API_KEY = 'QCI76yYs5jbuYqS4geSkEZHhkPJq0QZCOz1pXGIEdIOvfN36Rooooooooooooooo'
+API_SECRET = 'EpMK5GTSHJxMFf42IhzGCpVLgxywR60Lz9lWDu7votvjLVgwkkkkkkkkkkkkkkk'
 
 client = Client(API_KEY, API_SECRET)
 
